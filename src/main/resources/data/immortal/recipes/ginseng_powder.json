@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "count": 1,
+  "ingredients":
+  [
+    {
+      "item": "immortal:ginseng"
+    },
+    {
+      "item": "immortal:wood_mortar"
+    }
+  ],
+  "result":
+  {
+    "item": "immortal:ginseng_powder",
+    "count": 3
+  }
+}
